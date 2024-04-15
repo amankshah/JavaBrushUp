@@ -4,11 +4,6 @@ public class App {
 
 //        variables
 
-    //        String
-                    String name = "Aman";
-                    System.out.println("Name :" + name);
-    //          Numbers
-                    int Age = 26;
-                    System.out.println("Age :" + Age);
+
     }
 }
